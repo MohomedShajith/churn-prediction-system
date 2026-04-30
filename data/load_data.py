@@ -1,6 +1,6 @@
-from dotenv import load_dotenv
-import pandas as pd
 import os
+import pandas as pd
+from dotenv import load_dotenv
 from sqlalchemy import create_engine
 
 load_dotenv()

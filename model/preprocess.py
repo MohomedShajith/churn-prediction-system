@@ -68,13 +68,10 @@ def get_data():
     y_train = torch.FloatTensor(y_train)
     y_test = torch.FloatTensor(y_test)
 
-    print(X_train.shape)
-    print(X_test.shape)
-    print(y_train.shape)
-    print(y_test.shape)
+
 
 
     joblib.dump(sc, "model/scaler.pkl")
     return X_train, X_test, y_train, y_test
 
-    print(data.dtype)
+
