@@ -66,6 +66,9 @@ churn-prediction-system/
 ![Swagger UI](screenshots/swagger-01.png)
 ![Swagger UI](screenshots/swagger-02.png)
 
+### Streamlit UI
+![Streamlit UI](screenshots/Streamlit.pdf)
+
 
 ## How to Run Locally
 
